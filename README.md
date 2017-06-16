@@ -1,4 +1,4 @@
 # cs109
 dataScience 
 
-harvard cs109 homework and slide
+harvard cs109 homework and slides
