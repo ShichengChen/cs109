@@ -1,7 +1,7 @@
 ((dp1
 S'spark'
 p2
-I35
+I32
 sS'mapreduce'
 p3
 I16
